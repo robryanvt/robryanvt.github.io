@@ -11,11 +11,13 @@ title:            Robert Ryan
 tagline:          'Fix it, Build it, Learn it'
 description:      'A place to write up my projects. <a href="https://twitter.com/rpryan" target="_blank">@rpryan</a>.'
 url:              http://log.rpryan.org
-baseurl:          /
+baseurl:          http://log.rpryan.org
 
 author:
   name:           'Robert Ryan'
+  email:          robert@rpryan.org
   url:            https://log.rpryan.org
 
 paginate:         5
+
 

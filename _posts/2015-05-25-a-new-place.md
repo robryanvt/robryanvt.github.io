@@ -1,6 +1,6 @@
 ---
-layout:post
-title:What I hope to build here
+layout: post
+title: What I hope to build here
 ---
 
 The focus of what I put here will be Building, Fixing, or Learning. 
