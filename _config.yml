@@ -18,7 +18,8 @@ author:
   email:          robert@rpryan.org
   url:            https://log.rpryan.org
 
-paginate:         5
-
 github:           https://github.com/robryanvt  
 repo:             https://github.com/robryanvt
+
+paginate:         5
+
