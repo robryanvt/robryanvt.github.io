@@ -18,7 +18,9 @@ author:
   email:          robert@rpryan.org
   url:            https://log.rpryan.org
 
-github:           https://github.com/robryanvt  
+# Custom vars
+
+github:             
 repo:             https://github.com/robryanvt
 
 paginate:         5
