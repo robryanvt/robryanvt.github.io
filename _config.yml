@@ -11,7 +11,7 @@ title:            'Robert Ryan'
 tagline:          'Fix it, Build it, Learn it'
 description:      'A place to write up my projects. <a href="https://twitter.com/rpryan" target="_blank">@rpryan</a>.'
 url:              http://log.rpryan.org
-baseurl:          http://log.rpryan.org
+baseurl:          /
 
 author:
   name:           'Robert Ryan'
